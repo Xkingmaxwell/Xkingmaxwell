@@ -1,27 +1,18 @@
 ---
-title:  "Blogpost Voorbeeld"
+title:  "Blogpost: Game"
 ---
 
-## titel 1
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit nulla dignissimos corporis aspernatur laudantium eaque expedita esse blanditiis fugiat a! Magnam laboriosam incidunt cumque explicabo sit non blanditiis accusantium mollitia? 
+## Uitleg
+Informatica, ook wel computerwetenschappen genoemd, is de studie en de wetenschap van de theoretische fundamenten van informatie, digitale informatieverwerking en computationele berekeningen en processen.
+ 
 
 <!--more-->
 
-## titel 2
+## Hoe is het ontstaan en door wie 
+De computer werdt gemaakt door een man. Charles Babbage de maker van onze pc's. De Britse wiskundige, filosoof, uitvinder en werktuigbouwkundige die bekend werd als de ontwerper van de eerste geautomatiseerde, programmeerbare, mechanische rekenmachine, de voorloper van de elektronische computer.
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur quas id reprehenderit culpa recusandae eligendi deleniti alias totam ducimus magnam similique excepturi tenetur molestiae, expedita libero at obcaecati et vitae.
-Laudantium ipsum commodi, excepturi impedit animi voluptatem nihil. Et, placeat iure ex soluta sequi ab dolorem deleniti nisi. Dignissimos at exercitationem reprehenderit quia ratione. Error non perferendis doloremque nam esse!
-Temporibus maxime facilis sequi ipsum porro harum! Consequatur aspernatur aut mollitia optio maxime ducimus, atque sequi eum deleniti nulla recusandae est, obcaecati fuga sunt ratione ab ipsa corporis inventore ex.
-Debitis magni sequi sunt? Sit magni dignissimos accusantium nam tenetur aliquid odio assumenda dolorem vero corporis ipsam qui quo officia itaque aspernatur fuga ducimus eum natus, dolor ea exercitationem enim.
-Nulla ipsa modi quaerat molestiae eum accusamus, soluta vero vel placeat odit consequatur corporis explicabo at minima similique, a dolorum tempore cum nihil? Voluptate esse quo sapiente accusamus ex cupiditate!
+Ada Lovelace (1815-1852) bedacht hoe je een computer moet programmeren.
+Schulden, aristocratische excessen en talloze liefdesaffaires. Dat zijn de eerste associaties bij het horen van de naam Lord Byron (1788-1824), een van Engelands grootste dichters. Een gek, slecht en gevaarlijk om te kennen volgens een van zijn maîtresses. 
 
-## titel 3
+## Waar en was Maxwell erbij
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis unde dolorum aliquid itaque, soluta ipsum iure, incidunt eveniet, ullam sunt atque! Inventore architecto porro optio placeat, fugiat illo dolores aperiam.
-Dolore eius earum, quis voluptatibus voluptas aliquam quam odio beatae nam blanditiis necessitatibus eveniet corporis facilis sapiente ipsum est laboriosam soluta! Assumenda in velit officiis unde culpa dolorem alias laborum!
-Hic aliquid assumenda maiores, temporibus iste omnis saepe repudiandae, necessitatibus repellendus quisquam quo eveniet sed vel! Quod veniam vel impedit praesentium enim accusantium, ut eum tenetur officiis! Veniam, illo corporis.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque distinctio qui deserunt est vitae, ipsum sunt dolor eius adipisci! Vitae aut maiores officia atque tempora facere iusto doloremque. Perferendis, voluptatem.
-Odio perspiciatis maxime molestias. Sunt facilis ut alias, quod officiis temporibus error ad odit nesciunt nostrum maxime veniam accusamus itaque iure impedit quasi explicabo placeat. Eveniet dignissimos cumque quos et?
-Tempore, officia pariatur aperiam velit voluptate minima nesciunt hic sed architecto, aliquid ea in cum, provident deleniti obcaecati ipsam sapiente. Nam dolore sapiente illo fugit velit consequuntur quam beatae autem.
