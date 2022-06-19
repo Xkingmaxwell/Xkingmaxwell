@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: var(--color-dominant);
+    background-color: var(--color-dominant); ;
 }
 
 #blogposts a:hover article {
