@@ -3,13 +3,13 @@ title:  "Blogpost Real Madrid "
 ---
 
 ![afbeelding van real madrid](/assets/images/og-image.png)
-## titel 1
+## Wat Real Madrid is 
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit nulla dignissimos corporis aspernatur laudantium eaque expedita esse blanditiis fugiat a! Magnam laboriosam incidunt cumque explicabo sit non blanditiis accusantium mollitia? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae similique animi aliquam debitis beatae ratione? Sed quod dolorem vero accusamus explicabo aspernatur voluptatum qui quasi expedita nostrum, recusandae illo ratione?
 
 <!--more-->
 
-## titel 2
+## Waarom het de beste club is
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur quas id reprehenderit culpa recusandae eligendi deleniti alias totam ducimus magnam similique excepturi tenetur molestiae, expedita libero at obcaecati et vitae.
 Laudantium ipsum commodi, excepturi impedit animi voluptatem nihil. Et, placeat iure ex soluta sequi ab dolorem deleniti nisi. Dignissimos at exercitationem reprehenderit quia ratione. Error non perferendis doloremque nam esse!
