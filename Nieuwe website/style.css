@@ -184,3 +184,6 @@ top: 0;
 }
 
 
+#home, #about, #portfolio, #services{
+    min-height: 100vh;
+}
